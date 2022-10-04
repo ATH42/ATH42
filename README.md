@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things Code
 - 🌱 I’m currently learning typescript / React
 - 💞️ I’m looking to collaborate on any React
-- 📫 you can reach me out on twitter @theofilos_hoffi
+- 📫 you can reach out on twitter @theofilos_hoffi
 
 <!---
 ATH42/ATH42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
