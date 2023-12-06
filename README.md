@@ -1,5 +1,5 @@
 # aye peeps my name is alexander
-i am a self taught frontend engineer currently working at sciendis.
+i am a self taught fullstack enginner with an expertise in frontend currently working at sciendis.
 
 coding is only one of many passions. <br />
 I am also a dad, 👨‍👩‍👧<br />
