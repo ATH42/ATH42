@@ -7,7 +7,7 @@ dungeon master, 🧌<br />
 soulsborne addict, 🌞<br /> 
 ex chef 🥘<br /> 
 and plant fan. 🌵<br />
-I am currently dabbling in swift and rust. Hit me up if you want to collab or even just chat <3
+I am currently dabbling in C# and Unity. Hit me up if you want to collab or even just chat <3
 
 twitter: [@theofilos_hoff](https://twitter.com/theofilos_hoff) 
 [![@ath's Holopin board](https://holopin.io/api/user/board?user=ath)](https://holopin.io/@ath)
