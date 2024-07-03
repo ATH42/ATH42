@@ -1,5 +1,5 @@
 # aye peeps my name is alexander
-i am a self taught fullstack enginner with an expertise in frontend currently working at clarait.
+i am a self taught fullstack engineer with an expertise in front- and backend (learning all things infra as i go) currently working at clarait.
 
 coding is only one of many passions. <br />
 I am also a dad, 👨‍👩‍👧<br />
